@@ -8,4 +8,9 @@ public class FirstClass {
         System.out.println("Hello idea-git-test");
         System.out.println("Hello idea-git-test");
     }
+
+
+    public void test() {
+        System.out.println("A test func");
+    }
 }
